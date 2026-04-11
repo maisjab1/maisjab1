@@ -39,11 +39,13 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 -->
-<h1 align="center">Hi 👋, I'm maisjab</h1>
+<h1>Hi 👋, I'm maisjab</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maisjab1&label=Profile%20views&color=0e75b6&style=flat" alt="maisjab1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  ## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maisjabareen999@gmail.com) 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
