@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mais!;Cybersecurity+Enthusiast+🔐;Loves+to+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color8A2BE2&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Mais!;Cybersecurity+Enthusiast+🔐;Loves+to+code" />
 </p>
 
 <!--
@@ -40,14 +40,13 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=maisjab1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
-<h1>Hi 👋, I'm maisjab</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maisjab1&label=Profile%20views&color=0e75b6&style=flat" alt="maisjab1" /> </p>
+## 🌐 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"></p>
-  ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maisjabareen999@gmail.com) 
+<p align="center">
+  <a href="mailto:maisjabareen999@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
