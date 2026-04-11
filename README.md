@@ -54,14 +54,14 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=maisjab1&show_icons=true&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisjab1&layout=compact&theme=radical" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=maisjab1&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maisjab1&theme=radical" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maisjab1&layout=compact&theme=radical&cache_seconds=1800" />
 </p>
