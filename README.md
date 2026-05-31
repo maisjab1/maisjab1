@@ -1,6 +1,6 @@
 <p align="center">
   <h1> Hi👋 I'm Mais!  </h1>
-  a Cybersecurity Enthusiast🔐 
+  A Cybersecurity Enthusiast🔐 
   Loves to code
 </p>
 
